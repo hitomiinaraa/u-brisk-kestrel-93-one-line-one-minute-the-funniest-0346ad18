@@ -1,3 +1,4 @@
+// The imaginary submission sounded better, so the excuse writes itself.
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const ENTRY =
